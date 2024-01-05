@@ -13,5 +13,6 @@ namespace DependencyInjectionAndServiceLifetimes.Services
         }
 
         public string GetGuid() => Id.ToString();
+
     }
 }
