@@ -5,6 +5,8 @@ import Message from "./Message";
 import Garage from "./Car";
 import Shop from "./Product";
 import Classroom from "./ClassRoom";
+import Demo2 from "./Demo1";
+
 function App() {
   return (
     <div className="App">
@@ -20,7 +22,8 @@ function App() {
       {/* <Garage />
       <Garage brand="Hundai" color="Red" /> */}
       {/* <Shop /> */}
-      <Classroom />
+      {/* <Classroom /> */}
+      
     </div>
   );
 }
